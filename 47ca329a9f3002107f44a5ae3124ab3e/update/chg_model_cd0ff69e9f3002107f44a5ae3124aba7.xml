@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="chg_model">
+    <chg_model action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <advanced_security>false</advanced_security>
+        <available_in_ui>true</available_in_ui>
+        <color>#cbcbcb</color>
+        <default_change_model>false</default_change_model>
+        <description/>
+        <implementation_states/>
+        <name>Mi prueba</name>
+        <read_roles>itil,sn_change_read</read_roles>
+        <record_preset>type=normal^EQ</record_preset>
+        <state_field>state</state_field>
+        <sys_class_name>chg_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 00:55:51</sys_created_on>
+        <sys_id>cd0ff69e9f3002107f44a5ae3124aba7</sys_id>
+        <sys_name>Mi prueba</sys_name>
+        <sys_package display_value="ChangeTec" source="x_snc_changetec">47ca329a9f3002107f44a5ae3124ab3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChangeTec">47ca329a9f3002107f44a5ae3124ab3e</sys_scope>
+        <sys_update_name>chg_model_cd0ff69e9f3002107f44a5ae3124aba7</sys_update_name>
+        <table_name>change_request</table_name>
+        <write_roles/>
+    </chg_model>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd0ff69e9f3002107f44a5ae3124aba7"/>
+</record_update>
